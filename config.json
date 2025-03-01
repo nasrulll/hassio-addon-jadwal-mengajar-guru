@@ -1,0 +1,15 @@
+{
+  "name": "Jadwal Mengajar Guru",
+  "version": "1.0.0",
+  "slug": "jadwal-mengajar",
+  "description": "Addon untuk menampilkan jadwal mengajar guru.",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "application",
+  "boot": "auto",
+  "ports": {
+    "8099/tcp": 8099
+  },
+  "options": {
+    "data_source": "local"
+  }
+}
