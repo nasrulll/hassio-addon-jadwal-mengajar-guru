@@ -1,0 +1,18 @@
+{
+  "guru": [
+    {
+      "nama": "Budi",
+      "kelas": "1A",
+      "hari": "Senin",
+      "jam": "08:00-09:00",
+      "mapel": "Matematika"
+    },
+    {
+      "nama": "Ani",
+      "kelas": "2B",
+      "hari": "Selasa",
+      "jam": "10:00-11:00",
+      "mapel": "Bahasa Inggris"
+    }
+  ]
+}
